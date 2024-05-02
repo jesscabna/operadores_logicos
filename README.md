@@ -27,4 +27,3 @@ Invierte el valor booleano.
 
 not True → False
 not False → True
-
